@@ -7,7 +7,7 @@ Just some things that spin:
 
 https://codepen.io/josephblais/pen/dyvGVav
 
-### Full Page Height Divs
+### Full Page Height Divs - No JQuery
 
 Nice and useful for landing pages and hero sections:
 
