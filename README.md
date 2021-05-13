@@ -3,12 +3,16 @@ Just messing around with different CSS properties, bookmarked here incase they c
 
 ### Spinner Animation Test
 
-Just some things that spin
+Just some things that spin:
 
 https://codepen.io/josephblais/pen/dyvGVav
 
 ### Full Page Height Divs
 
-Nice and useful for landing pages and hero sections
+Nice and useful for landing pages and hero sections:
 
 https://codepen.io/josephblais/pen/abJdGXX
+
+The same thing but I styled the links a little bit:
+
+https://codepen.io/josephblais/pen/BaWKNEr
