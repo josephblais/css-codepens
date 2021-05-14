@@ -11,10 +11,6 @@ https://codepen.io/josephblais/pen/dyvGVav
 
 Nice and useful for landing pages and hero sections:
 
-https://codepen.io/josephblais/pen/abJdGXX
-
-The same thing but I styled the links a little bit:
-
 https://codepen.io/josephblais/pen/BaWKNEr
 
 ### Scroll Progress Bar
