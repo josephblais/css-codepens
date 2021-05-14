@@ -16,3 +16,15 @@ https://codepen.io/josephblais/pen/abJdGXX
 The same thing but I styled the links a little bit:
 
 https://codepen.io/josephblais/pen/BaWKNEr
+
+### Scroll Progress Bar
+
+A scroll indicator attached to the page header:
+
+https://codepen.io/josephblais/pen/zYZqmYJ
+
+### Scroll Progress Bar with Percentage
+
+The same as the previous codepen but dynamically render the scroll percentage in the header:
+
+https://codepen.io/josephblais/pen/mdWPzjR
