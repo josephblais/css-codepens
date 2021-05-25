@@ -24,3 +24,9 @@ https://codepen.io/josephblais/pen/zYZqmYJ
 The same as the previous codepen but dynamically render the scroll percentage in the header:
 
 https://codepen.io/josephblais/pen/mdWPzjR
+
+### CSS Browser Window
+
+A styled div that looks like an old-school browser window:
+
+https://codepen.io/josephblais/pen/xxqrRvd
