@@ -30,3 +30,9 @@ https://codepen.io/josephblais/pen/mdWPzjR
 A styled div that looks like an old-school browser window:
 
 https://codepen.io/josephblais/pen/xxqrRvd
+
+### CSS Browser Window with Content Scroll
+
+The same as the previous codepen but the content inside the "browser window" is scrollable
+
+https://codepen.io/josephblais/pen/NWpgwmN
