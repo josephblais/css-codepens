@@ -13,6 +13,8 @@ Nice and useful for landing pages and hero sections:
 
 https://codepen.io/josephblais/pen/BaWKNEr
 
+## Progress Bar
+
 ### Scroll Progress Bar
 
 A scroll indicator attached to the page header:
