@@ -25,6 +25,8 @@ The same as the previous codepen but dynamically render the scroll percentage in
 
 https://codepen.io/josephblais/pen/mdWPzjR
 
+## Browser Window
+
 ### CSS Browser Window
 
 A styled div that looks like an old-school browser window:
@@ -33,6 +35,12 @@ https://codepen.io/josephblais/pen/xxqrRvd
 
 ### CSS Browser Window with Content Scroll
 
-The same as the previous codepen but the content inside the "browser window" is scrollable
+The same as the previous codepen but the content inside the "browser window" is scrollable:
 
 https://codepen.io/josephblais/pen/NWpgwmN
+
+### CSS Browser Window - Click & Drag
+
+The same browser window but it can be repositioned by click & drag;
+
+https://codepen.io/josephblais/pen/xxqLxWP
