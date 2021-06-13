@@ -31,7 +31,7 @@ https://codepen.io/josephblais/pen/mdWPzjR
 
 ### CSS Browser Window
 
-A styled div that looks like an old-school browser window:
+The bare minimum: a styled div that looks like an old-school browser window:
 
 https://codepen.io/josephblais/pen/xxqrRvd
 
