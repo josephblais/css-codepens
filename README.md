@@ -46,3 +46,11 @@ https://codepen.io/josephblais/pen/NWpgwmN
 The same browser window but it can be repositioned by click & drag;
 
 https://codepen.io/josephblais/pen/xxqLxWP
+
+## Span Text Ornament
+
+### Text Ornament That Expands :hover
+
+A little circle behind some text that grows when you hover over the text.
+
+https://codepen.io/josephblais/pen/XWaOPeN
